@@ -1,4 +1,4 @@
-# Semantic_Segmentation
+## Semantic_Segmentation
 DeepLab for VOC2017 datasets in Tensorflow
 
 # Pre-trained model
